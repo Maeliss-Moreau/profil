@@ -1,0 +1,46 @@
+div {
+    display:  block;
+    background-color: rgb(54, 57, 63);
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 16px auto;
+}
+
+body {
+    background-color: rgb(47, 49, 54);
+    color: rgb(220, 221, 222);
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+#profil {
+    width: 128px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: 'roboto', sans-serif;
+    font-size: 45px;
+}
+
+input {
+    background-color: rgba(142, 144, 148, 0.1);
+    color: rgb(255, 216, 54);
+    font-family: 'Righteous', 'Oswald', sans-serif;
+    font-size: 24px;
+    padding: 8px 16p
+}
+
+#bouton:hover {
+    background-color: whitesmoke;
+}
+
+img{
+    width: 50px;
+}
+#rs{
+    padding: 50px;
+}
